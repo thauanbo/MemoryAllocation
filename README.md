@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/thauanbo/thauanbo/refs/heads/main/img/banner-project.png" alt="Banner" width="100%">
 
-# Script
+# Memory Allocation
 
 Este projeto é uma Atividade da Faculdade para Aprendizagem da Alocação de Memória em Java.
 ## Funcionalidades
